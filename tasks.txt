@@ -5,3 +5,4 @@ take a haircut[]
 take a shower
 goto dentist
 visit doctor
+take a knife
