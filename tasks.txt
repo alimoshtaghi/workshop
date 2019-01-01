@@ -3,4 +3,5 @@ todo list
 
 take a haircut[]
 take a shower
+goto dentist
 visit doctor
