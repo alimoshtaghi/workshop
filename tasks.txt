@@ -6,3 +6,4 @@ take a shower
 goto dentist
 visit doctor
 take a knife
+buy watermelon
