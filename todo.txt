@@ -2,3 +2,4 @@ todo list
 
 buy milk[x]
 take a haircut[]
+visit doctor
